@@ -68,7 +68,8 @@ javac -d build *.java
 ## Testing 
 
 Refer to the project working tree in the [Overview section above](#overview).  
-Each subdirectory (excluding the dictionaries) contains a tester. You can run them both like so:
+Each subdirectory (excluding the dictionaries) contains a tester.  
+You can run them both like so:
 
 **Hash Function**
 ```bash
