@@ -3,20 +3,20 @@
 An open source implementation of a Java Hashing function and Hash Set data structure. 
 
 ## Table of Contents
-
+- [Overview](#overview)
 - [Installation & Setup](#installation--setup)  
     1. [Prerequisites](#1-prerequisites)  
     2. [Clone the Repository](#2-clone-the-repository)
-    3. [.](#.)
-- [Usage](#usage)
-    - [.](#.)
-    - [.](#.)
+    3. [Change Directory](#3-change-directory)
+    3. [Compile the Project](#4-compile-the-project)
+- [Testing](#testing)
 - [License](#license)
 
 ## Overview
 
 Mind the structure of the repository below. There are two seperate implementations within this project, as well as a folder full
 of sample dictionaries for testing purposes.  
+  
 **Note that** some of the text files in the repository may take up a lot of space, so they have been compressed here.
 
 ```bash
@@ -48,7 +48,7 @@ Make sure you have the latest version of the Java Development Kit installed. You
 git clone https://github.com/prebish/open-hash.git
 ```
 
-### 3. Change to Directory
+### 3. Change Directory
 
 #### The Hash Function
 ```bash
